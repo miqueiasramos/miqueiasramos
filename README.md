@@ -7,3 +7,5 @@
 <h1>Programas que eu uso!</h1>
 <h2>- 🦕 JavaScript</h2>
 <h2>- 🐍 Python</h2>
+<h2>- 🦴 HTML5</h2>
+<H2>- 🥼 CSS</H2>
