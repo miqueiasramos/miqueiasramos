@@ -9,4 +9,3 @@
 <h2>- 🐍 Python</h2>
 <h2>- 🦴 HTML5</h2>
 <H2>- 🥼 CSS</H2>
-<img width="20px" src="imagens/logo html-200.png" alt="">
