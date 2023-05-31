@@ -1,5 +1,13 @@
 <h1> Olá, meu nome é Miquéias 👋</h1>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqueiasramos&show_icons=true&theme=tokyonight)
+
+
+
+##
+
+
 <h2> 💼 - Trabalho com Front-end </h2>
 
 <hr>
@@ -24,4 +32,4 @@
   
 </div>
   
-  ![snake gif](https://github.com/miqueiasramos/miqueiasramos/blob/output/github-contribution-grid-snake.svg)
+  
