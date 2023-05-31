@@ -23,3 +23,5 @@
   <a href="https://www.linkedin.com/in/miqu%C3%A9ias-sousa-b79518239/" target="_blank" rel='next'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel='next'></a> 
   
 </div>
+  
+  ![snake gif](https://github.com/miqueiasramos/miqueiasramos/blob/output/github-contribution-grid-snake.svg)
