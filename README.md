@@ -4,7 +4,7 @@
 ##
 
 
-<h2> 💼 - Trabalho com Front-end </h2>
+<h2> 💼 - Trabalho como Full Stack </h2>
 
 <hr>
 
