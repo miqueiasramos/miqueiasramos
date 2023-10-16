@@ -4,11 +4,11 @@
 ##
 
 
-<h2> 💼 - Trabalho como Full Stack </h2>
+<h1> 💼 - Trabalho como Full Stack </h1>
 
 <hr>
 
-<h2> 😺 - Abaixo está listada as tecnologia que domino. </h2>
+<h3> 😺 - Abaixo está listada as tecnologia que domino. </h3>
 
 <hr>
 
