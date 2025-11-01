@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3> 😺 - Abaixo está listada as tecnologia que domino. </h3>
+<h3> 😺 - Abaixo está listada as tecnologias que domino. </h3>
 
 <hr>
 
